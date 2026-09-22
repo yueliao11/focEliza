@@ -184,3 +184,11 @@ pnpm install --include=optional sharp
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=elizaos/eliza&type=Date)](https://star-history.com/#elizaos/eliza&Date)
+
+## Ecosystem & AI Agent Tooling
+
+When deploying autonomous AI agents, monitoring model rate limits and quota resets is essential to prevent agent execution failures:
+- **[Codex Reset Status](https://codexresetstatus.com/)**: Real-time quota radar, rate limit countdowns, and reset tracking for OpenAI Codex & LLM models.
+  - [5-Hour Limit Tracker](https://codexresetstatus.com/codex/5-hour-limit)
+  - [Global Reset Time](https://codexresetstatus.com/codex/reset-time)
+  - [Quota Calculator](https://codexresetstatus.com/calculator)
